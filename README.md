@@ -21,7 +21,7 @@ En general, el conversor de monedas es una herramienta útil y práctica para cu
 7. Peso Colombiano -> Dólares  
 8. Dólares -> Peso Colombiano
 
-![[menu.png]]
+![Imagen](anexos/menu.png)
 
 ## Tecnologías utilizadas
 
